@@ -1,0 +1,17 @@
+/* 基础样式：清空浏览器默认样式，设置页面背景 */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html,
+body {
+  min-height: 100vh;
+}
+
+body {
+  background: #f7f5f2;
+  color: #2c3e50;
+}
