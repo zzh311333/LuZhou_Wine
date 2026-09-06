@@ -6,7 +6,7 @@
 
 **无需安装或启动本地服务，直接打开网页即可浏览：**
 
-👉 [泸州老窖科普知识平台](https://6a9d645dbe30ee0194effe5c--jazzy-centaur-ae9eb1.netlify.app/)
+👉 [泸州老窖科普知识平台](https://6a9d645dbe30ee0194effe5c--luzhouwine.netlify.app/)
 
 该网页由 Netlify 托管，首页、文章、分类、搜索和问答都能直接在线使用。公网版本是发布时的只读快照，后台管理仍在本机使用。
 
