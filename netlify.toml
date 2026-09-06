@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "24"
+
+# Vue Router history 模式：未匹配的前端路径统一回退到 index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
